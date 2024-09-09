@@ -6,5 +6,4 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🌱 I'm a student excitedly exploring the interwoven landscapes of biology, mathematics, and computer science! 
+🌱 I'm a student excitedly exploring the interwoven landscapes of biology, mathematics, and computer science! 
